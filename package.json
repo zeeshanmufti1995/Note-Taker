@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/zeeshanmufti1995/Note-Taker/issues"
   },
-  "homepage": "https://github.com/zeeshanmufti1995/Note-Taker#readme"
+  "homepage": "https://github.com/zeeshanmufti1995/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  }
 }
